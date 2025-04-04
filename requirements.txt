@@ -4,6 +4,11 @@ streamlit-folium
 geopy
 pandas
 plotly
+pandas
+streamlit
+requests
+plotly
+scipy
 
 
 
